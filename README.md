@@ -15,7 +15,7 @@ This project is a Steganography-based encryption tool that allows users to secur
 
 1. Clone the repository or download the files.
     ```bash
-    git clone https://github.com/yourusername/steganography_project.git
+    git clone https://github.com/Newbie-amitian/EDUNET-Steganography_Project.git
     ```
 2. Install dependencies:
     ```bash
